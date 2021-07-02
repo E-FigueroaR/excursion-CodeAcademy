@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    
+}
+
+#link{
+    color: aquamarine;
+    text-align: inherit;
+    font-family: inherit;
+}
+#link:hover{
+    color:greenyellow
+}
+
+.information{
+    font-family: Verdana;
+    font-size: 42px;
+    color:white;
+    font-weight: 300;
+}
+
+#description{
+    font-family: Verdana;
+    font-size: 21px;
+    color:gray;
+   
+}
+
+
+#Copyright{
+    color: gray;
+    text-align: right !important;
+}
